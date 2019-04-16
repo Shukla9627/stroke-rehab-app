@@ -1,6 +1,10 @@
 # stroke-rehab-app
 Building a Stroke Rehabilitation and Dexterity Training Tool with a Virtual Reality (Senso) Glove
 
+2DAssets folder - contains all sprites used
+
+SEM1 folder - contains pos.cs and anglecalc.m - used in performance evaluation.
+
 Callibration.cs/Callibration2.cs/Callibration3.cs - first 3 calibration steps
 
 Wait1.cs/Wait2.cs/Wait3.cs - where calibration angles are saved, main game accesses from here
